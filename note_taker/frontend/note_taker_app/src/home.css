@@ -1,0 +1,28 @@
+
+#navbar
+{
+   margin: 10px auto;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(96, 96, 96);
+    color: white;
+width: 650px;
+height: 30px;
+text-align: center;
+padding-top: 15px;
+border-radius: 15px;
+}
+.Homemain
+{
+    padding-top: 10px;
+    font-family: Arial;
+    margin: auto;
+    background-color: tan;
+    margin: auto;
+    height: 700px;
+}
+
+#big button{
+    width:100px,
+   
+}
